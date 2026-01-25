@@ -1,0 +1,34 @@
+[
+  {
+    "title": "CinePrime",
+    "image": "/projects/cinePrime/cineprime.png",
+    "description": "CinePrime é uma aplicação web para descoberta de filmes, onde o usuário pode navegar por títulos organizados por categorias, realizar buscas e adicionar filmes a uma lista de favoritos.",
+    "tags": ["React","TypeScript","Styled-components","Redux Toolkit","API"],
+    "site": "https://cine-prime-beta.vercel.app",
+    "repo": "https://github.com/douglasmf/CinePrime"
+  },
+  {
+    "title": "My Finance",
+    "image": "/projects/myFinance/myFinance.png",
+    "description": "O MyFinance é uma aplicação de controle de finanças, onde é possivel registrar entradas,despesas e visualizar um gráfico das despesas separadas por categorias",
+    "tags": ["React","TypeScript","Styled-components","Redux Toolkit"],
+    "site": "https://my-finance-gules.vercel.app",
+    "repo": "https://github.com/douglasmf/MyFinance"
+  },
+  {
+    "title": "InDecor",
+    "image": "/projects/inDecor/inDecor.png",
+    "description": "O InDecor é uma Chamada para um evento sobre design de interiores",
+    "tags": ["React","Styled-components"],
+    "site": "https://indecor-eight.vercel.app",
+    "repo": "https://github.com/douglasmf/inDecor"
+  },
+  {
+    "title": "Lista Compras",
+    "image": "/projects/listaCompras/listaCompras.png",
+    "description": "ListaCompras é uma aplicação para a criação de uma lista de compras, com opções de buscar, adicionar, editar ou remover uma compra e visualizar o valor total das compras.",
+    "tags": ["React","TypeScript","Styled-components","Redux Toolkit"],
+    "site": "https://lista-compras-dusky.vercel.app",
+    "repo": "hhttps://github.com/douglasmf/ListaCompras"
+  }
+]
