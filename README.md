@@ -17,5 +17,5 @@ Site: <a href="https://cine-prime-beta.vercel.app" target="_blank">https://cine-
 - API
 
 <p align="center">
-  <img src="./public/portfolio.png" width="700" alt="Screenshot do projeto">
+  <img src="./public/screenshots/portfolio.png" width="700" alt="Screenshot do projeto">
 </p>  
