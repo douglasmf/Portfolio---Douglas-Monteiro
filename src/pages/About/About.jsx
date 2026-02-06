@@ -36,7 +36,7 @@ export const About = () => {
                 <FaLinkedin />
               </S.IconButton>
             </S.SocialButtons>
-            <S.IconButton href="#" className="curriculo">
+            <S.IconButton href="/curriculo.pdf" target="_blank" className="curriculo">
               <HiOutlineDocumentText />
               <span>Currículo</span>
             </S.IconButton>
